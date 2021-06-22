@@ -1,18 +1,30 @@
-React + Next 博客系统
+React  博客后台系统
 
-> 该项目是由 `React` 和 `Next` 搭建
+> 该项目是由 `React`  搭建
 
-> 另外该项目的后台系统在： 
+> 项目前台： https://github.com/huaungwj/react_blog
+
+> 项目api接口：
+
+
 
 ## 页面预览
 
-### 首页文章列表页
+### 登陆页面
 
-![](https://github.com/huaungwj/img_storage/blob/main/blog_project/blog_home.png?raw=true)
+![](https://github.com/huaungwj/img_storage/blob/main/blog_project/admin_login.png?raw=true)
 
-### 文章详情页
+### 主页
 
-![](https://github.com/huaungwj/img_storage/blob/main/blog_project/blog_detail.png?raw=true)
+![](https://github.com/huaungwj/img_storage/blob/main/blog_project/admin_home.png?raw=true)
+
+### 文章列表
+
+![](https://github.com/huaungwj/img_storage/blob/main/blog_project/article_list.png?raw=true)
+
+### 更新文章
+
+![](https://github.com/huaungwj/img_storage/blob/main/blog_project/article_update.png?raw=true)
 
 ## 快速上手
 
