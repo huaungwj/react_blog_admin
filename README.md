@@ -4,9 +4,9 @@ React  博客后台系统
 
 > 项目前台： https://github.com/huaungwj/react_blog
 
-> 项目api接口：
+> 项目api接口：https://github.com/huaungwj/react_blog_api
 
-
+如果觉得对您有帮助，您可以在右上角给我个star支持一下，谢谢！
 
 ## 页面预览
 
