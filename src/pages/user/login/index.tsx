@@ -34,7 +34,7 @@ const Login: React.FC<{}> = () => {
 
     let dataProps = {
       userName: userName,
-      password: md5(md5(password) + 'huangweiji'),
+      password: md5(md5(password) + 'xiaohai'),
     };
 
     // 接口调用
